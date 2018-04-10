@@ -4,7 +4,7 @@
 
 ## syntax theme for [iTerm2](https://www.iterm2.com/)
 
-~.~
+\~.\~
 <br>&nbsp;&nbsp;a soft, warm, low contrast theme,
 <br>&nbsp;&nbsp;with pastel accents that are easy on your eyes
 
