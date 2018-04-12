@@ -1,8 +1,10 @@
 # \~ soft era \~
 
+### syntax theme for [iTerm2](https://www.iterm2.com/)
+
 🌸 Light pastel syntax theme for cozy, cute coding. 🌱
 
-## syntax theme for [iTerm2](https://www.iterm2.com/)
+![soft era syntax theme screenshot](screenshot.png)
 
 \~.\~
 <br>&nbsp;&nbsp;a soft, warm, low contrast theme,
