@@ -19,12 +19,6 @@
 
 💾 enjoy <3
 
-![soft era syntax theme screenshot](screenshot1.jpg)
-
-
-
-![soft era syntax theme screenshot](screenshot2.jpg)
-
 ---
 
 Happy to hear any input <3
